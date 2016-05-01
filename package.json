@@ -1,0 +1,32 @@
+{
+  "name": "featurebook-markdown",
+  "version": "1.0.0-alpha",
+  "description": "Markdown parser for FeatureBook",
+  "main": "index.js",
+  "files": [
+    "lib",
+    "index.js"
+  ],
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "author": {
+    "name": "Daniel Pacak",
+    "email": "pacak.daniel@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SOFTWARE-CLINIC/featurebook-markdown.git"
+  },
+  "engines": {
+    "node": ">= 0.10.x"
+  },
+  "license": "Apache-2.0",
+  "dependencies": {
+    "markdown-it": "6.0.1"
+  },
+  "devDependencies": {
+    "chai": "3.5.0",
+    "mocha": "2.4.5"
+  }
+}
