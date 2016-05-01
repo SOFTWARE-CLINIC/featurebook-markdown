@@ -1,6 +1,6 @@
 {
   "name": "featurebook-markdown",
-  "version": "1.0.0-alpha",
+  "version": "1.0.0-alpha.1",
   "description": "Markdown parser for FeatureBook",
   "main": "index.js",
   "files": [
