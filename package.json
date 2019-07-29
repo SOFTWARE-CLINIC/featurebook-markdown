@@ -19,14 +19,14 @@
     "url": "git+https://github.com/SOFTWARE-CLINIC/featurebook-markdown.git"
   },
   "engines": {
-    "node": ">= 0.10.x"
+    "node": ">= 8"
   },
   "license": "Apache-2.0",
   "dependencies": {
-    "markdown-it": "6.0.1"
+    "markdown-it": "^9.0.1"
   },
   "devDependencies": {
-    "chai": "3.5.0",
-    "mocha": "2.4.5"
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
   }
 }
